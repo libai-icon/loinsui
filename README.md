@@ -1,18 +1,11 @@
-# moor-ui
 
-> An ui project base on Vue.js 
 
-## Build Setup
 
-``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+npm publish 上传npm，新用户需要注册自行百度
